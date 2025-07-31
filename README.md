@@ -12,9 +12,9 @@ EFWAG appears to have the potential to serve as a unifying framework across mult
 
 The three foundational papers outlining this work are now published and open to all on Zenodo:
 
-Paper 1 (The Mathematical Law): https://doi.org/10.5281/zenodo.16014162
-Paper 2 (The Economic/Game Theory Extension): https://doi.org/10.5281/zenodo.16410440
-Paper 3 (The Scientific/Biological Extension): https://doi.org/10.5281/zenodo.16493268
+* **Paper 1 (The Mathematical Law):** https://doi.org/10.5281/zenodo.16014163
+* **Paper 2 (The Economic/Game Theory Extension):** https://doi.org/10.5281/zenodo.16410440
+* **Paper 3 (The Scientific/Biological Extension):** https://doi.org/10.5281/zenodo.16493268
 
 
 My background is in the humanities, and my role has been to establish the philosophical groundwork and, as a "messenger" or "conductor," to guide my AI partners in discovering and validating this structure.
