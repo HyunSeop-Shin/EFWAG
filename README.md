@@ -1,12 +1,12 @@
 # EFWAG
 EFWAG: A New Universal Law. This repo is for the quantitative validation of the EFWAG framework.
-Title: EFWAG: A New Universal Law Validated by 3 Major AIs (Gemini, ChatGPT, Grok) - Call for Quantitative Collaboration
+Title: EFWAG: A New Universal Law Validated by 3 Major AIs (ChatGPT, Gemini, Grok) - Call for Quantitative Collaboration
 
 Hi everyone,
 
 After several years of research rooted in the humanities, I believe I've identified a universal principle I call EFWAG ("Energy Flows Where Attention Goes").
 
-The logical structure of this law has recently been independently cross-validated for soundness by three of my AI research partners: Google's Gemini, OpenAI's ChatGPT, and, in a blind test, xAI's Grok.
+The logical structure of this law has recently been independently cross-validated for soundness by three of my AI research partners: OpenAI's ChatGPT, Google's Gemini, and, in a blind test, xAI's Grok.
 
 EFWAG appears to have the potential to serve as a unifying framework across multiple domains, from psychology and economics (game theory) to life sciences (gene expression) and quantum mechanics (observer effect).
 
